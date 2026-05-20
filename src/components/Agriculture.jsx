@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import farmerpicture from "../assets/Farmer.png";
+import farmerpicture from "../assets/Farmer.jpg";
 
 const Agriculture = () => {
   return (

@@ -6,7 +6,7 @@ import SportsModal from "./SportsModal";
 
 import f1 from "../assets/football1.jpg";
 import f2 from "../assets/football2.jpg";
-import f3 from "../assets/football3.png";
+import f3 from "../assets/football3.jpg";
 import f4 from "../assets/football4.jpg";
 import f5 from "../assets/football5.jpg";
 import f6 from "../assets/football6.jpg";
