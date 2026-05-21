@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import Qeem1 from "../assets/qeem1.png";
+import Qeem1 from "../assets/Qeem1.png";
 
 const Loader = ({ onFinish }) => {
   return (
