@@ -98,7 +98,7 @@ const Contact = () => {
         </Icons>
 
         <FooterText>
-          © 2026 Qeem Tech. Built with passion, discipline, and creativity.
+          © 2026 QEEM-Tech. Built with passion, discipline, and creativity.
         </FooterText>
       </Container>
     </Section>
