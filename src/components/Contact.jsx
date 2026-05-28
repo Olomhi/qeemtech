@@ -60,7 +60,11 @@ const Contact = () => {
             <FaWhatsapp />
           </Icon>
 
-          <Icon href="mailto:officialqeemtech@gmail.com">
+          <Icon
+            href="mailto:officialqeemtech@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FaEnvelope />
           </Icon>
 
