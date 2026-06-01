@@ -9,8 +9,6 @@ import {
 } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
-import QeemLogo from "../assets/Qeem1reverse.png";
-
 const Contact = () => {
   const scrollToSection = (id) => {
     const section = document.getElementById(id);

@@ -75,7 +75,7 @@ const Navbar = () => {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.9 }}
       >
-        <img src={Qeem1} alt="qeemlogo" />
+        <img src={Qeem1} alt="QEEM-Tech Logo" />
       </Logo>
 
       <MenuIcon onClick={() => setOpen(!open)}>
@@ -110,7 +110,6 @@ const Nav = styled.nav`
   height: 70px;
   z-index: 1000;
   background: linear-gradient(135deg, #041812, #071d1a);
-
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 `;
 
